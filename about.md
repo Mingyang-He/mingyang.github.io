@@ -1,6 +1,6 @@
 # About Me
 
-![Image of mingyang](images/mingyang.jpg)
+![Image of mingyang](images/mingyang.png)
 
 I am a student from the University of Queensland majoring in Electrical Engineering.
 
