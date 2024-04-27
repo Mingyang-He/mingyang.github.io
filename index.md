@@ -2,7 +2,7 @@
 
 This is my blog to record the learning progress on fastAI courses ❤
 
-![Image of fast.ai logo](images/logo.png)
+![Image of ai](images/mainpage.jpg)
 
 My name is MINGYANG HE, a student majoring in Electrical Engneering at the University of Queensland.
 This blog was created when I took the image processing course ELEC4630.
