@@ -1,6 +1,6 @@
 **Hello and welcome to this blog ❤**
 
-This is my blog to record the learning progress on fastAI courses ❤
+This is my blog to record the learning progress on deep learning ❤
 
 ![Image of ai](images/mainpage.jpg)
 
